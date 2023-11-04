@@ -46,6 +46,7 @@ const Board: React.FC = () => {
           key={colIndex}
           position={tilePosition}
         />
+       )}
       </div>
     )}
     </div>
